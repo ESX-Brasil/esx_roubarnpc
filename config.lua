@@ -1,5 +1,5 @@
 Config = {}
-Config.Locale = 'br'
+Config.Locale = 'br' --Traduções disponives "br/en/fr"
 
 Config.ShouldWaitBetweenRobbing = true
 Config.MinWaitSeconds = 60
