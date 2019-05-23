@@ -11,6 +11,9 @@ Uma versão para voce roubar os npcs com tempo.
 
 1. Configuração somente em config.lua
 
+# Creditos
+- [D3uxx](https://github.com/D3uxx)
+
 # Discord
 
 [![Join ESX Brasil](https://discordapp.com/api/guilds/432980396070666250/embed.png?style=banner2)](https://discord.gg/8zGbh3T)
